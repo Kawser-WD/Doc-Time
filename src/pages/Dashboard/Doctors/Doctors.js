@@ -12,14 +12,14 @@ const Doctors = () => {
     const [doctors, setDoctors] = useState([])
 
     useEffect(() => {
-        const url = `http://localhost:5000/doctors`
+        const url = `https://lit-waters-26265.herokuapp.com/doctors`
         fetch(url)
             .then(res => res.json())
             .then(data => setDoctors(data));
     }, [])
 
     const deleteProduct = (id)=>{
-        fetch(`http://localhost:5000/doctors/${id}`, {
+        fetch(`https://lit-waters-26265.herokuapp.com/doctors/${id}`, {
              method: 'DELETE'
         })
         .then(res => res.json())
