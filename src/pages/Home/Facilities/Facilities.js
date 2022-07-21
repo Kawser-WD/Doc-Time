@@ -23,27 +23,27 @@ const Facilities = () => {
                     <div class="row">
                         <div class="col-6">
                         <div>
-                        <h5 style={{fontWeight:'bold', fontSize:'20px'}}>Highly trained dental team</h5>
+                        <h5 style={{color:'#576574', fontSize:'20px'}}>Highly trained dental team</h5>
                         <p style={{fontWeight:'normal', color:'gray'}}>In a dental practice, teamwork generally means being able to create a professional yet fun environment while delivering top-notch patient care.</p>
                         </div>
                         </div>
                         <div class="col-6">
                         <div>
-                        <h5 style={{fontWeight:'bold', fontSize:'20px'}}>
+                        <h5 style={{color:'#576574',fontSize:'20px'}}>
                         Extensive line of dental services</h5>
                         <p style={{fontWeight:'normal', color:'gray'}}>In a dental practice, teamwork generally means being able to create a professional yet fun environment while delivering top-notch patient care.</p>
                         </div>
                         </div>
                         <div class="col-6">
                         <div>
-                        <h5 style={{fontWeight:'bold', fontSize:'20px'}}>
+                        <h5 style={{color:'#576574', fontSize:'20px'}}>
                         Advanced dental treatment facilities and equipment</h5>
                         <p style={{fontWeight:'normal', color:'gray'}}>In a dental practice, teamwork generally means being able to create a professional yet fun environment while delivering top-notch patient care.</p>
                         </div>
                         </div>
                         <div class="col-6">
                         <div>
-                        <h5 style={{fontWeight:'bold', fontSize:'20px'}}>
+                        <h5 style={{color:'#576574', fontSize:'20px'}}>
                         Guaranteed results and brighter smiles</h5>
                         <p style={{fontWeight:'normal', color:'gray'}}>In a dental practice, teamwork generally means being able to create a professional yet fun environment while delivering top-notch patient care.</p>
                         </div>

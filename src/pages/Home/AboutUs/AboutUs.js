@@ -18,7 +18,7 @@ const AboutUs = () => {
         sx={{ flexGrow: 1, marginTop:'100px'}}
         >
             <Grid container spacing={{ xs: 2, md: 1 }} columns={{ xs: 16, sm: 16, md: 16, lg:16 }}>
-                <Grid item style={{ ...verticalCenter }} xs={16} md={8} lg={8} sm={16}>
+                <Grid item style={{ ...verticalCenter }} xs={8} md={8} lg={8} sm={8}>
                     <Box>
                         <Typography variant="h3"
                         sx={{fontWeight:'normal', fontSize:'30px', color:'#372929'}}
