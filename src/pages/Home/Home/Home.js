@@ -22,7 +22,7 @@ const Home = () => {
                 <Grid item style={{ ...verticalCenter, textAlign: 'left' }} xs={16} sm={16} md={8} lg={8} >
                     <Box>
                         <Typography variant="h3"
-                        sx={{fontWeight:'normal', color:'#292828'}}
+                        sx={{fontWeight:'normal', color:'#00d2d3'}}
                         >
                             Your New Smile <br />
                             Starts Here
@@ -30,7 +30,7 @@ const Home = () => {
                         <Typography variant="h6" sx={{ my: 3, fontSize: 13, fontWeight: 300, color: 'gray' }}>
                         Good oral hygiene is necessary to keep teeth and gums healthy. It involves habits such as brushing twice a day and having regular dental checkups.
                         </Typography>
-                        <Button variant="contained" style={{ backgroundColor: '#5CE7ED' }}><Link to="/appoinment"
+                        <Button variant="contained" style={{ backgroundColor: '#5CE7ED' }}><Link to="/appointment"
                         style={{textDecoration:'none'}} >Get Appointment</Link></Button>
                     </Box>
                 </Grid>

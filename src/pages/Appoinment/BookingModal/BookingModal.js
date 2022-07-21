@@ -116,7 +116,7 @@ const BookingModal = ({ openBooking, handleBookingClose, booking, date, setBooki
                         defaultValue={date.toDateString()}
                         size="small"
                     />
-                    <Button type="submit" variant="contained">Book Appointment</Button>
+                    <Button type="submit" variant="contained"  sx={{backgroundColor:'#00d2d3'}}>Book Appointment</Button>
                 </form>
             </Box>
         </Fade>

@@ -4,6 +4,7 @@ import Navbar from '../../shared/Navbar/Navbar';
 import AboutUs from '../AboutUs/AboutUs';
 import ContactUs from '../ContactUs/ContactUs';
 import DocServices from '../DocServices/DocServices';
+import Facilities from '../Facilities/Facilities';
 import Header from '../Header/Header';
 import Home from '../Home/Home';
 import OurDoctors from '../OurDoctors/OurDoctors';
@@ -15,6 +16,7 @@ const Main = () => {
             <Home></Home>
             <Header/>
             <DocServices/>
+            <Facilities/>
             <AboutUs/>
             <OurDoctors/>
             <ContactUs/>

@@ -51,7 +51,7 @@ const AvailabelAppoinments = ({ date }) => {
     const [bookingSuccess, setBookingSuccess] = useState(false);
     return (
         <Container>
-            <Typography variant="h4" sx={{ color: 'info.main', mb: 3, textAlign:'center' }}>Available Appointments on {date.toDateString()}</Typography>
+            <Typography variant="h4" sx={{ color: '#00d2d3', mb: 3, textAlign:'center' }}>Available Appointments on {date.toDateString()}</Typography>
             {bookingSuccess && <Alert severity="success">Appointment Booked successfully!</Alert>}
             <Grid container spacing={2}>
                 {

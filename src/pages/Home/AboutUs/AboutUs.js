@@ -15,7 +15,7 @@ const verticalCenter = {
 const AboutUs = () => {
     return (
         <Container 
-        sx={{ flexGrow: 1 }}
+        sx={{ flexGrow: 1, marginTop:'100px'}}
         >
             <Grid container spacing={{ xs: 2, md: 1 }} columns={{ xs: 16, sm: 16, md: 16, lg:16 }}>
                 <Grid item style={{ ...verticalCenter }} xs={16} md={8} lg={8} sm={16}>
