@@ -1,7 +1,11 @@
 Live Link:https:https://fresh-food-ecommerce.web.app/
+
 Anyone can create an account
+
 An Admin can make an admin
+
 Admin Email:test@gmail.com
+
 Password:123456
 
 
